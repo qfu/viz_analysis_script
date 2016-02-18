@@ -1,0 +1,27 @@
+StartTime,EndTime,Title,Annotation,MainCategory,Category2,Category3
+01:29.4,06:28.2,,"explored with cluster_id,race,zip,sex,sexual_orientation",Visualization \u0x2236Parallel Coordinate
+06:28.2,09:12.0,,"change y to age,zip,border_cross_last_year,std_history_within_last_year,",Visualization \u0x2236Scatter Plot Matrix
+09:12.0,09:50.2,Table,open table and add inject_drug,Visualization \u0x2236Scatter Plot Matrix
+14:02.4,19:29.1,,"explored age, risk_factor_hiv, cluster_id,meth_usage,heroin_usage,number_of_partners, sex_with_prostitues,transactional_sex,border_cross_last_year,birth_nation,country,loc_res_city",Visualization \u0x2236Pie Chart
+19:29.1,21:30.1,,run with default setting,(null)
+19:49.6,19:49.6,,New Annotation…,(null)
+00:00.9,01:28.9,,New Annotation…,Visualization \u0x2236Circle Packing
+02:19.1,02:19.1,,,Factors\u0x2236ClusterID,Race,ZIP,Sex,SexualOrient
+06:00.8,06:00.8,,,Factors\u0x2236ClusterID,Race,Sex,SexualOrient
+06:56.3,06:56.3,,,Factors\u0x2236CurrentHIVload,Age,Numberofpartners
+08:50.1,08:50.1,,,Factors\u0x2236CurrentHIVload,Bordercrossingslastyear,Numberofpartners
+08:58.8,08:58.8,,,Factors\u0x2236CurrentHIVload,STDhistorywithinlastyear,Numberofpartners
+14:07.7,14:07.7,,,Factors\u0x2236Age
+14:15.9,14:15.9,,,Factors\u0x2236SexualOrient
+15:52.2,15:52.2,,,Factors\u0x2236RiskfactorforHIV
+17:25.2,17:25.2,,,Factors\u0x2236ClusterID
+17:43.1,17:43.1,,,Factors\u0x2236MethUse
+17:44.3,17:44.3,,,Factors\u0x2236heroinuse
+18:19.9,18:19.9,,,Factors\u0x2236SexwithProstitutes
+18:29.9,18:29.9,,,Factors\u0x2236TransactiolSex
+18:51.2,18:51.2,,,Factors\u0x2236Bordercrossingslastyear
+19:05.5,19:05.5,,,Factors\u0x2236BirthNation
+19:11.1,19:11.1,,,Factors\u0x2236Country
+19:15.2,19:15.2,,,Factors\u0x2236LocResCity
+19:36.4,21:37.4,,,Visualization \u0x2236Motion Chart
+19:36.4,19:36.4,,New Annotation…,(null)

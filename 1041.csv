@@ -1,0 +1,20 @@
+StartTime,EndTime,Title,Annotation,MainCategory,Category2,Category3
+00:44.5,00:44.5,,New Annotation…,(null)
+00:20.6,06:08.5,,,Visualization \u0x2236Circle Packing
+06:13.0,10:30.8,,,Visualization \u0x2236Parallel Coordinate
+06:20.1,06:20.1,,,Factors\u0x2236ClusterID,Race,InjectionDrugUse,Birthcity,ZIP
+07:43.5,07:43.5,,,Factors\u0x2236Race,Sex,SexualOrient
+08:09.2,08:09.2,,,Factors\u0x2236Race,Sex,SexualOrient,InjectionDrugUse
+10:32.0,17:03.4,,,Visualization \u0x2236Pie Chart
+10:34.3,10:34.3,,,Factors\u0x2236Age
+11:38.8,11:38.8,,,Factors\u0x2236Sex
+11:41.6,11:41.6,,,Factors\u0x2236RiskfactorforHIV
+11:58.8,11:58.8,,,Factors\u0x2236InjectionDrugUse
+12:27.6,12:27.6,,,Factors\u0x2236Ethnicity
+12:30.9,12:30.9,,,Factors\u0x2236Race
+14:41.7,14:41.7,,,Factors\u0x2236Ethnicity
+15:18.5,15:18.5,,,Factors\u0x2236Race
+15:52.3,15:52.3,,,Factors\u0x2236Sex
+15:54.1,15:54.1,,,Factors\u0x2236SexualOrient
+16:29.6,16:29.6,,,Factors\u0x2236InjectionDrugUse
+17:11.6,19:12.6,,,Visualization \u0x2236Scatter Plot Matrix

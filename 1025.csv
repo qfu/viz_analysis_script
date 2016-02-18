@@ -1,0 +1,20 @@
+StartTime,EndTime,Title,Annotation,MainCategory,Category2,Category3
+00:45.6,01:43.2,,The user explored different clusters,Visualization \u0x2236Circle Packing
+01:43.2,05:18.3,,"The user explored with cluster_id,race,ethnicity,sex,sexual_orientation",(null)
+05:18.3,06:29.9,Table,The user opened the table to observe the data,(null)
+06:29.9,16:30.4,,"The user explored with X axis of current_hiv_load, border_cross_last_year,race,sex_with_prostitute
+y axis with sexual_orientation,risk_factor_hiv,alcohol_cosumption
+shaped size with race.",(null)
+16:30.4,18:31.4,,"The user explored with age,sex,sexual_orientation,inject_drug,race",(null)
+01:51.6,06:26.9,,,Visualization \u0x2236Parallel Coordinate
+06:26.9,16:32.5,,,Visualization \u0x2236Scatter Plot Matrix
+16:32.5,20:03.7,,,Visualization \u0x2236Pie Chart
+02:21.9,02:21.9,,,Factors\u0x2236ClusterID,Race,Ethnicity,Sex,SexualOrient
+07:03.1,07:03.1,,,Factors\u0x2236CurrentHIVload,Age,Numberofpartners
+08:04.8,08:04.8,,,Factors\u0x2236Bordercrossingslastyear,SexualOrient,Race
+08:37.0,08:37.0,,,Factors\u0x2236Bordercrossingslastyear,SexualOrient,Race
+09:04.0,09:04.0,,,Factors\u0x2236Bordercrossingslastyear,SexualOrient,MethUse
+10:11.4,10:11.4,,,Factors\u0x2236Race,RiskfactorforHIV,Numberofpartners
+17:05.5,17:05.5,,,Factors\u0x2236Sex
+17:13.9,17:13.9,,,Factors\u0x2236SexualOrient
+17:20.4,17:20.4,,,Factors\u0x2236InjectionDrugUse

@@ -1,0 +1,36 @@
+StartTime,EndTime,Title,Annotation,MainCategory,Category2,Category3
+00:39.6,01:23.7,,,Visualization \u0x2236Circle Packing
+01:23.7,04:57.6,,,Visualization \u0x2236Parallel Coordinate
+01:47.1,01:47.1,,,Factors\u0x2236ClusterID,Race,InjectionDrugUse,Birthcity,ZIP
+02:08.9,02:08.9,,,Factors\u0x2236Race
+02:19.2,02:19.2,,,Factors\u0x2236Race,Ethnicity,Sex,SexualOrient
+03:04.8,03:04.8,,,Factors\u0x2236Race,Sex,SexualOrient,InjectionDrugUse,Ethnicity
+05:02.0,08:27.0,,,Visualization \u0x2236Scatter Plot Matrix
+05:33.7,05:33.7,,,Factors\u0x2236CurrentHIVload,Age,Numberofpartners
+07:17.8,07:17.8,,,Factors\u0x2236Numberofpartners,Age,CurrentCD4count
+08:33.2,13:00.3,,,Visualization \u0x2236Pie Chart
+08:38.7,08:38.7,,,Factors\u0x2236Age
+08:53.7,08:53.7,,,Factors\u0x2236Race
+09:03.4,09:03.4,,,Factors\u0x2236Ethnicity
+09:49.4,09:49.4,,,Factors\u0x2236Sex
+09:54.5,09:54.5,,,Factors\u0x2236SexualOrient
+11:25.9,11:25.9,,,Factors\u0x2236RiskfactorforHIV
+11:41.3,11:41.3,,,Factors\u0x2236TransactiolSex
+11:44.2,11:44.2,,,Factors\u0x2236SexwithProstitutes
+11:50.3,11:50.3,,,Factors\u0x2236heroinuse
+11:57.0,11:57.0,,,Factors\u0x2236Alcoholconsumption
+12:04.3,12:04.3,,,Factors\u0x2236Recent Institutionalization jail prison rehab center
+12:12.9,12:12.9,,,Factors\u0x2236STDhistorywithinlastyear
+12:15.1,12:15.1,,,Factors\u0x2236syphilis
+12:41.7,12:41.7,,,Factors\u0x2236HCV
+13:58.8,16:31.9,,,Visualization \u0x2236Motion Chart
+15:56.0,15:56.0,,,Factors\u0x2236Sex,CurrentHIVload,Age,Numberofpartners
+16:47.3,17:05.3,,,Visualization \u0x2236Circle Packing
+17:08.8,17:51.3,,,Visualization \u0x2236Parallel Coordinate
+18:04.4,18:26.5,,,Visualization \u0x2236Scatter Plot Matrix
+18:23.9,20:24.9,,,Visualization \u0x2236Pie Chart
+17:47.1,17:47.1,,,Factors\u0x2236Race,Ethnicity,Sex,SexualOrient,InjectionDrugUse
+18:27.7,18:27.7,,,Factors\u0x2236Sex
+18:38.6,18:38.6,,,Factors\u0x2236SexualOrient
+18:50.4,18:50.4,,,Factors\u0x2236RiskfactorforHIV
+18:57.5,18:57.5,,,Factors\u0x2236InjectionDrugUse

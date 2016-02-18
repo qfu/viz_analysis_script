@@ -1,0 +1,13 @@
+StartTime,EndTime,Title,Annotation,MainCategory,Category2,Category3
+00:00.0,00:00.0,,New Annotation…,(null)
+00:40.4,20:10.0,,,Visualization \u0x2236Motion Chart
+00:45.6,00:45.6,,Color,Factors\u0x2236CurrentHIVload
+00:52.7,00:52.7,,Y-Axis,Factors\u0x2236Age
+02:47.5,02:47.5,,X-axis,Factors\u0x2236Time
+02:47.5,02:47.5,,X-axis,Factors\u0x2236Time
+02:46.5,02:46.5,,X,Factors\u0x2236Time
+02:32.6,02:32.6,,New Annotation…,Factors\u0x2236Time
+02:25.7,02:25.7,,X-Axis,Factors\u0x2236Time
+04:45.6,04:45.6,,,Factors\u0x2236Sex,CurrentHIVload,Age,Numberofpartners
+08:17.6,08:17.6,,,Factors\u0x2236Sex,CurrentHIVload,Numberofpartners
+12:36.9,12:36.9,,,Factors\u0x2236Sex,Age,CurrentHIVload,Numberofpartners

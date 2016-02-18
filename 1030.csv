@@ -1,0 +1,26 @@
+StartTime,EndTime,Title,Annotation,MainCategory,Category2,Category3
+00:40.2,07:12.2,,The user switched between different clusters,Visualization \u0x2236Circle Packing
+09:58.4,11:17.0,,"explored with age,sex,risk_hiv_factor,inject_drug,transactiona_sex,country",Visualization \u0x2236Pie Chart
+15:21.7,17:17.8,,"explored with age,sexual_orientation,risk_factor_hiv",Visualization \u0x2236Pie Chart
+07:12.2,08:46.9,,"added sexual_orientaiton, deleted birth_city,zip",Visualization \u0x2236Parallel Coordinate
+12:45.4,13:54.2,,"explored it with race,inject_drug,sexual_orientation",Visualization \u0x2236Parallel Coordinate
+11:17.0,12:21.3,,played the motion chart without making any changes,Visualization \u0x2236Motion Chart
+08:46.9,09:58.4,,change x axis to current_cd4_count and observed the heat map,Visualization \u0x2236Scatter Plot Matrix
+13:54.2,15:21.7,,,Visualization \u0x2236Scatter Plot Matrix
+08:18.5,08:18.5,,,Factors\u0x2236ClusterID,Race,InjectionDrugUse,SexualOrient
+09:07.3,09:07.3,,,Factors\u0x2236CurrentHIVload,Age,Numberofpartners
+09:12.6,09:12.6,,,Factors\u0x2236CurrentCD4count,Age,Numberofpartners
+10:10.5,10:10.5,,,Factors\u0x2236Age
+10:18.1,10:18.1,,,Factors\u0x2236Sex
+10:20.0,10:20.0,,,Factors\u0x2236RiskfactorforHIV
+10:33.7,10:33.7,,,Factors\u0x2236InjectionDrugUse
+10:49.7,10:49.7,,,Factors\u0x2236TransactiolSex
+10:56.0,10:56.0,,,Factors\u0x2236Country
+13:18.5,13:18.5,,,Factors\u0x2236Race,InjectionDrugUse,SexualOrient
+14:50.7,14:50.7,,,Factors\u0x2236CurrentHIVload,Age,Numberofpartners
+15:03.0,15:03.0,,,Factors\u0x2236Country,Age,Numberofpartners
+15:49.7,15:49.7,,,Factors\u0x2236SexualOrient
+16:01.6,16:01.6,,,Factors\u0x2236RiskfactorforHIV
+16:59.1,16:59.1,,,Factors\u0x2236RiskfactorforHIV
+17:04.4,17:04.4,,,Factors\u0x2236SexualOrient
+17:10.5,17:10.5,,,Factors\u0x2236Race

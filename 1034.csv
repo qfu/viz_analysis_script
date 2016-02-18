@@ -1,0 +1,61 @@
+StartTime,EndTime,Title,Annotation,MainCategory,Category2,Category3
+00:10.2,00:41.0,,,Visualization \u0x2236Circle Packing
+00:41.0,01:41.5,,,Visualization \u0x2236Parallel Coordinate
+01:41.5,02:01.9,,,Visualization \u0x2236Parallel Coordinate
+02:01.9,02:29.5,,,Visualization \u0x2236Parallel Coordinate
+02:29.5,03:07.1,,"The user switched to scatter plot matrix, changed the value of x Axis to current_cd4_count",Visualization \u0x2236Scatter Plot Matrix
+03:08.1,04:23.8,,"The user started pie chart, and explored with the options of sex, sex_orientaion, risk_factor_hiv, inject_drug, transcational sex,sex with prostitutes,number of partners,",Visualization \u0x2236Pie Chart
+04:23.8,04:46.5,,The user used the motion chart,Visualization \u0x2236Motion Chart
+05:59.6,06:10.2,,New cluster is selected,Visualization \u0x2236Circle Packing
+06:15.2,06:43.6,,"added attributes of ethnicity, sexual_orientation,sex",Visualization \u0x2236Parallel Coordinate
+09:20.7,10:29.6,,"explored with options: age,sexual_orientation,risk_factor_hiv, inject_drug, ethnicity,race,sex with prostitude,transactional_sex,alcohol_consumption.estimated_date_of_infection",Visualization \u0x2236Pie Chart
+10:29.9,11:20.4,,change x axis to current_cd4_count,Visualization \u0x2236Motion Chart
+11:20.4,11:39.9,,trying to redraw with cluster 28,Visualization \u0x2236Motion Chart
+11:39.9,12:20.4,,"added ethinity,sex and sexual_orientation",Visualization \u0x2236Circle Packing
+12:20.4,12:57.0,,change x-axis to number of partners,Visualization \u0x2236Scatter Plot Matrix
+12:58.7,14:07.0,,explored hiv_risk_factor and race,Visualization \u0x2236Pie Chart
+14:07.0,14:40.5,,new cluster,Visualization \u0x2236Circle Packing
+14:40.5,15:08.3,,added sex and sexual_orientation,Visualization \u0x2236Parallel Coordinate
+15:08.3,15:45.5,,change x-axis and shape size to number of partners,Visualization \u0x2236Scatter Plot Matrix
+15:45.5,16:38.8,,"explored sex, sex_orientation,risk_factor_hiv,inject_drug,marital_status,race,ethnicity",Visualization \u0x2236Pie Chart
+16:38.8,16:49.0,,reopen parallel coordinate,Visualization \u0x2236Parallel Coordinate
+16:53.6,18:21.1,,"reopen motion chart, change the shape of the graph",Visualization \u0x2236Motion Chart
+18:23.0,20:24.0,,New Annotation…,(null)
+00:59.9,00:59.9,,,Factors\u0x2236ClusterID,Race,InjectionDrugUse,Sex,SexualOrient
+02:52.0,02:52.0,,,Factors\u0x2236CurrentCD4count,Age,Numberofpartners
+03:11.6,03:11.6,,,Factors\u0x2236Age
+03:17.0,03:17.0,,,Factors\u0x2236Sex
+03:37.5,03:37.5,,,Factors\u0x2236SexualOrient
+03:41.1,03:41.1,,,Factors\u0x2236RiskfactorforHIV
+03:52.2,03:52.2,,,Factors\u0x2236InjectionDrugUse
+04:01.4,04:01.4,,,Factors\u0x2236TransactiolSex
+04:03.6,04:03.6,,,Factors\u0x2236SexwithProstitutes
+04:07.3,04:07.3,,,Factors\u0x2236Numberofpartners
+06:31.3,06:31.3,,,Factors\u0x2236ClusterID,Race,InjectionDrugUse,Ethnicity,SexualOrient
+07:02.4,07:02.4,,,Factors\u0x2236CurrentHIVload,Age,CurrentCD4count
+09:22.6,09:22.6,,,Factors\u0x2236Age
+09:25.1,09:25.1,,,Factors\u0x2236Sex
+09:30.0,09:30.0,,,Factors\u0x2236SexualOrient
+09:32.8,09:32.8,,,Factors\u0x2236RiskfactorforHIV
+09:37.7,09:37.7,,,Factors\u0x2236InjectionDrugUse
+09:40.6,09:40.6,,,Factors\u0x2236Ethnicity
+10:05.2,10:05.2,,,Factors\u0x2236TransactiolSex
+10:09.5,10:09.5,,,Factors\u0x2236Alcoholconsumption
+10:25.3,10:25.3,,,Factors\u0x2236edi_date
+10:47.7,10:47.7,,,Factors\u0x2236Sex,CurrentHIVload,Age,Numberofpartners
+12:02.8,12:02.8,,,Factors\u0x2236ClusterID,Race,Ethnicity,Sex,SexualOrient
+12:32.2,12:32.2,,,Factors\u0x2236Numberofpartners,Age,CurrentHIVload
+13:02.2,13:02.2,,,Factors\u0x2236Age
+13:04.2,13:04.2,,,Factors\u0x2236Sex
+13:04.6,13:04.6,,,Factors\u0x2236SexualOrient
+13:07.7,13:07.7,,,Factors\u0x2236RiskfactorforHIV
+13:16.8,13:16.8,,,Factors\u0x2236InjectionDrugUse
+13:19.6,13:19.6,,,Factors\u0x2236Race
+14:56.9,14:56.9,,,Factors\u0x2236ClusterID,Race,InjectionDrugUse,Sex,SexualOrient
+15:58.8,15:58.8,,,Factors\u0x2236Sex
+16:06.8,16:06.8,,,Factors\u0x2236SexualOrient
+16:09.2,16:09.2,,,Factors\u0x2236RiskfactorforHIV
+16:15.7,16:15.7,,,Factors\u0x2236InjectionDrugUse
+16:19.8,16:19.8,,,Factors\u0x2236Maritalstatus
+16:25.6,16:25.6,,,Factors\u0x2236Race
+02:12.6,02:12.6,,New Annotation…,(null)
