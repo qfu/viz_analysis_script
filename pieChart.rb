@@ -11,8 +11,10 @@ data = Array.new
 array = Array.new
 
 @h.each do |key,value|
-    array << key
-    data << value
+    if key != nil
+        array << key
+        data << value
+    end
 end
 
 
